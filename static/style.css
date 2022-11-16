@@ -1,6 +1,6 @@
 body {
     font-family: 'Verdana', sans-serif;
-    margin: 50px 25px;
+    
 }
 
 a {
@@ -12,7 +12,7 @@ a:hover {
 }
 
 header, footer, div.page {
-    width: 760px;
+    width: 400px;
     margin: 0 auto;
     background: #daeef3;
     padding: 20px 30px;
