@@ -1,7 +1,13 @@
-
+<!doctype html/>
 <meta charset="utf-8">
+
+<head>
 <link rel="stylesheet" href="static/style.css">
 <title>Bienvenue — Souphiane JENDER - CV</title>
+
+
+</head>
+
 <body>
   <header>
     <nav>
