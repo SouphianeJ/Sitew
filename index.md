@@ -1,4 +1,4 @@
-<!doctype html>
+
 <meta charset="utf-8">
 <link rel="stylesheet" href="static/style.css">
 <title>Bienvenue — Souphiane JENDER - CV</title>
