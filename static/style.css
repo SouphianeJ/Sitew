@@ -7,7 +7,12 @@ html{
 body {
     height:100%;
     font-family: 'Verdana', sans-serif;
-    
+    background-image: url(backleft.jpg), url(backright.jpg);
+    background-position: left top, right top;
+    background-repeat: no-repeat, no-repeat;
+    background-attachment: fixed, fixed;
+}
+
 }
 
 a {
