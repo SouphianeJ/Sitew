@@ -5,12 +5,13 @@ html{
 
 
 body {
-    height:100%;
-    font-family: 'Verdana', sans-serif;
+    
     background-image: url(pics/backleft.jpg), url(pics/backright.jpg);
     background-position: left top, right top;
     background-repeat: no-repeat, no-repeat;
     /*background-attachment: fixed, fixed;*/
+    height:100%;
+    font-family: 'Verdana', sans-serif;
 }
 
 }
