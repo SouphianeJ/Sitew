@@ -4,6 +4,13 @@ html{
 }
 
 
+.bg-image{
+    background-image: url(pics/postit.svg), url(pics/blocnote.svg);
+    /*background-size: 100px 80px;*/
+    background-position: left top, right top;
+    background-repeat: no-repeat, no-repeat;
+}
+
 body {
     
     background-image: url(pics/backleft.jpg), url(pics/backright.jpg);
