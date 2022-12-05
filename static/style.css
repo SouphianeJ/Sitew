@@ -15,7 +15,7 @@ body {
     /*
     background-image: url(pics/backleft.jpg), url(pics/backright.jpg);
     /*background-size: 100px 80px;*/
-background-position: left top, right top;
+    background-position: left top, right top;
     background-repeat: no-repeat, no-repeat;
     */
     /*background-attachment: fixed, fixed;*/
